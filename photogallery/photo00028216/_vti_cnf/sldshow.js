@@ -1,0 +1,10 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TW|10 Aug 2026 13:46:20 -0000
+vti_author:SR|www\\T
+vti_modifiedby:SR|www\\T
+vti_nexttolasttimemodified:TW|10 Aug 2026 13:46:20 -0000
+vti_timecreated:TR|10 Aug 2026 13:44:22 -0000
+vti_extenderversion:SR|6.0.2.5516
+vti_backlinkinfo:VX|photogallery/photo00028216/real.htm
+vti_cacheddtm:TX|10 Aug 2026 13:44:22 -0000
+vti_filesize:IR|4651
