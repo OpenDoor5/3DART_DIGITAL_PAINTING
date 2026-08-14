@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://opendoor5.github.io/3DART_DIGITAL_PAINTING/sitemap.xml
